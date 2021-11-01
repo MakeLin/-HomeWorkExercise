@@ -1,2 +1,1 @@
-# -HomeWorkExercise
-just as a note for myself
+a study record in java.
